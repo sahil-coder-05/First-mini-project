@@ -1,5 +1,3 @@
-# We are creating a simple and very traditional "Snake , Water , Gun" game.
-
 '''
 1 for snake
 
@@ -49,3 +47,4 @@ else:
     else:
         print("Something went wrong, Please try again!!")
        
+
