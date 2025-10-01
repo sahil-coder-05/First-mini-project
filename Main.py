@@ -6,7 +6,7 @@
 0 for gun
 
 '''
-
+#Import random module
 import random
 
 computer = random.choice ([1 , -1 , 0])
@@ -47,4 +47,5 @@ else:
     else:
         print("Something went wrong, Please try again!!")
        
+
 
